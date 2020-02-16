@@ -17,10 +17,16 @@
     "error",
     "extends"
   ],
-  "author": "",
+  "author": "Eduardo Daniel Cuomo <reduardo7@gmail.com> <eduardo.cuomo.ar@gmail.com>",
   "license": "SEE LICENSE IN LICENCE",
   "bugs": {
     "url": "https://github.com/reduardo7/ts-base-error/issues"
   },
-  "homepage": "https://github.com/reduardo7/ts-base-error#readme"
+  "homepage": "https://github.com/reduardo7/ts-base-error#readme",
+  "prettier": {
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
 }
