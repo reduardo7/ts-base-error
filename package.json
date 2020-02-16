@@ -1,0 +1,26 @@
+{
+  "name": "ts-base-error",
+  "version": "1.0.0",
+  "description": "TypeScript Base Extendible Error",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reduardo7/ts-base-error.git"
+  },
+  "keywords": [
+    "ts",
+    "type-script",
+    "typescript",
+    "error",
+    "extends"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/reduardo7/ts-base-error/issues"
+  },
+  "homepage": "https://github.com/reduardo7/ts-base-error#readme"
+}
